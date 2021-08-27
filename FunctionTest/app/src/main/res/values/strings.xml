@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Function Test</string>
+    <string name="start">開始</string>
+    <string name="quit">離開</string>
+    <string name="change">改變</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="space">" "</string>
+</resources>
